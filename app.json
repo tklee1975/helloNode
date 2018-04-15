@@ -1,7 +1,7 @@
 {
   "name": "Hello NodeJs",
   "description": "a simple Node.js app",
-  "repository": "https://github.com/heroku/node-js-getting-started",
+  "repository": "git@github.com:tklee1975/helloNode.git",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"
