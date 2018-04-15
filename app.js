@@ -10,7 +10,11 @@ const http = require("http");
 //
 // app.listen(8864);
 
+let PORT = 8000;
+
 http.createServer((req, res) => {
   res.writeHead(200);
   res.end("hello NodeJs\n");
-}).listen(8000);
+}).listen(PORT);
+
+console.log("Node Server listen at " + PORT);
