@@ -1,0 +1,26 @@
+{
+  "name": "Simple NodeJS using heroku",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using nothing",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tklee1975/helloNode.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
