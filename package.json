@@ -1,5 +1,5 @@
 {
-  "name": "Simple NodeJS using heroku",
+  "name": "simple_nodejs",
   "version": "0.1.0",
   "description": "A sample Node.js app using nothing",
   "engines": {
